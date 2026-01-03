@@ -9,4 +9,4 @@ I build tools, experiments, and small projects to learn, improve, and help other
 - Fast prototyping and daily builds  
 
 ## 🚀 My Goal
-Keep leveling up my skills and become a professional coder when I grow up.
+Keep leveling up my skills and become a professional coder when I grow up
