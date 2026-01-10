@@ -18,7 +18,10 @@ I maintain:
 - The TurtleMod website  
 - The TurtleMod organization  
 - Team structures and community polls  
-- Extension and module systems  
+- Extension and module systems
+
+### Logo
+<img width="110" height="100" alt="Copilot_20260105_161407" src="https://github.com/user-attachments/assets/343da459-7390-4b7e-8cd4-3ac4810018f9" />
 
 ---
 ## 🧱 Boboblox
@@ -28,6 +31,10 @@ It keeps the familiar Roblox style but introduces its own mechanics, tools, and 
 ### 🌐 Boboblox Website
 - **[Official Domain](https://boboblox.dev)**
 - **[GitHub Pages](https://boboblox-team.github.io/Boboblox-website)**
+
+### Logo
+<img width="100" height="100" alt="Copilot_20260110_123320" src="https://github.com/user-attachments/assets/8a981d89-d736-4eec-9d10-30e648ea10e5" />
+
 ---
 
 ## 🛠️ Tech I Use
@@ -49,7 +56,7 @@ It keeps the familiar Roblox style but introduces its own mechanics, tools, and 
 ---
 
 ## 📫 How to Reach Me
-You can find me here on GitHub — I’m always around working on TurtleMod or chatting in discussions.
+You can find me here on GitHub — I’m always around working on TurtleMod or Boboblox or chatting in discussions.
 
 ---
 
