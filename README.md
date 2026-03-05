@@ -1,72 +1,61 @@
 # 👋 Hey, I'm ThatBobo
 
-Welcome to my GitHub profile!  
-I’m a developer who loves building creative, friendly, and community‑driven projects.  
-Right now, I’m working on [TurtleMod](https://turtlemod-team.github.io/TurtleMod-Website/) and Boboblox
+Developer building creative tools, visual coding systems, and community‑driven projects.  
+Right now I’m working on **TurtleMod** and **Boboblox**.
 
 ---
 
-## What I'm Building
-### **🐢[TurtleMod](https://turtlemod-team.github.io/TurtleMod-Website/)**
-A friendly, modular coding environment focused on:
-- Accessibility  
-- Extensions  
-- Community features  
-- A clean and welcoming website  
+## 🐢 TurtleMod
+A friendly, modular coding environment focused on accessibility, extensions, and community features.
 
 I maintain:
 - The TurtleMod website  
 - The TurtleMod organization  
 - Team structures and community polls  
-- Extension and module systems
+- Extension and module systems  
 
 ### Logo
-<img width="110" height="100" alt="Copilot_20260105_161407" src="https://github.com/user-attachments/assets/343da459-7390-4b7e-8cd4-3ac4810018f9" />
+<img width="110" height="100" src="https://github.com/user-attachments/assets/343da459-7390-4b7e-8cd4-3ac4810018f9" />
 
 ---
-## 🧱 Boboblox
-Boboblox is a **modded version of Roblox** that adds new systems, features, and ideas on top of the original experience.  
-It keeps the familiar Roblox style but introduces its own mechanics, tools, and creative features that make it unique.
 
-### 🌐 Boboblox Website
-- **[Official Domain](https://boboblox.dev)**
-- **[GitHub Pages](https://boboblox-team.github.io/Boboblox-website)**
+## 🧱 Boboblox
+Boboblox is a modded version of Roblox that adds new systems, tools, and creative features while keeping the familiar Roblox style.
+
+### 🌐 Website
+- https://boboblox.dev  
+- https://boboblox-team.github.io/Boboblox-website
 
 ### Logo
-<img width="100" height="100" alt="Copilot_20260110_123320" src="https://github.com/user-attachments/assets/8a981d89-d736-4eec-9d10-30e648ea10e5" />
+<img width="100" height="100" src="https://github.com/user-attachments/assets/8a981d89-d736-4eec-9d10-30e648ea10e5" />
 
 ---
 
 ## 🛠️ Tech I Use
-- JavaScript
-- HTML & CSS
-- GitHub Pages
-- JSON
-- UI/UX design
-- Community management
+- JavaScript  
+- HTML & CSS  
+- GitHub Pages  
+- JSON  
+- UI/UX design  
+- Community management  
 
 ---
 
 ## 💬 What I Like Working On
-- Making tools that feel friendly  
-- Designing simple, clean interfaces  
-- Building communities around projects  
-- Creating modular systems that anyone can extend  
-
----
-
-## 📫 How to Reach Me
-You can find me here on GitHub — I’m always around working on TurtleMod or Boboblox or chatting in discussions.
+- Friendly tools and simple interfaces  
+- Community‑focused projects  
+- Modular systems anyone can extend  
+- Clean, structured designs  
 
 ---
 
 ## 🌱 Fun Facts
-- I love organizing teams and making things feel structured  
-- I enjoy creating polls to see what people think  
-- I like building things that help beginners learn  
+- I love organizing teams  
+- I enjoy running polls  
+- I like helping beginners learn  
 - I’m always experimenting with new ideas  
 
 ---
 
 Thanks for stopping by!  
-Feel free to explore my projects or drop a comment in a discussion.
+Feel free to explore my projects or chat in discussions.
