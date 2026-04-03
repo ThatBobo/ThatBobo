@@ -13,7 +13,7 @@ I am ThatBobo, age 8, the coder who is making things most adults can't do.
 
 ---
 
-Weve only moved a bit now, but lets keep going😀
+We've only moved a bit now, but lets keep going😀
 
 ---
 
