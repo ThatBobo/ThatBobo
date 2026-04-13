@@ -1,4 +1,4 @@
-# Hello, ThatBobo here
+# 👋🏾 Hello, ThatBobo here
 I am ThatBobo, age 8, the coder who is making things most adults can't do.
 
 -----
