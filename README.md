@@ -1,5 +1,5 @@
 # 👋🏾 Hello, ThatBobo here
-I am ThatBobo, age 8, the coder who is making things most adults can't do.
+I love coding
 
 -----
 
@@ -43,4 +43,3 @@ We've only moved a bit now, but lets keep going😀
 ---
 
 That's all I got to say, I'll update the README sometimes, but this is what I got.
-If you want to contact me, go to my profile, find the repo named ThatBobo, then click on it, and open the discussion tab, then find the Discussion called Main Discussion, and that is where you can contact me, see you later
