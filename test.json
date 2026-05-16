@@ -1,4 +1,14 @@
-{
-  "input": "I am a genuis",
-  "output": "Can you please give prove?"
-}
+[
+  {
+    "input": "I am a genius",
+    "output": "Can you please give proof?"
+  },
+  {
+    "input": "I am bad at coding",
+    "output": "You’re not bad, you’re just learning. What are you stuck on?"
+  },
+  {
+    "input": "I give up",
+    "output": "It's ok to give up when something is bad, should we shift?"
+  }
+]
