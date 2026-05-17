@@ -1,0 +1,9 @@
+An example JSON is this:
+```json
+{
+  "error": {
+    "code": "unauthorized",
+    "message": "Missing API key"
+  }
+}
+```
