@@ -1,45 +1,42 @@
-# 👋🏾 Hello, ThatBobo here
-I love coding
+# Hey there! 👋 I'm ThatBobo
 
------
+**Coder** | Creative Problem Solver | Open Source Enthusiast
 
-## What do I do?
+Welcome to my GitHub profile! I'm passionate about coding and creative problem-solving. Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about tech!
 
-- Make loads of websites
-- Debug
-- Have fun
-- Play
-- And defintly lots of coding
+## 🌐 Connect With Me
 
----
+- **Scratch**: [@ThatBobo](https://scratch.mit.edu/users/ThatBobo/)
 
-We've only moved a bit now, but lets keep going😀
+## 📊 GitHub Stats
 
----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatBoboFirst&show_icons=true&theme=dark)
 
-## Websites I make
+## 🔝 Most Used Languages
 
-- Triper
-- Google Classroom mod
-- TurtleMod
-- Opix(actually an integration, btw)
-- Boboblox
-- Rivlo
-- AppForge
-- Exthub
-- Demo
-- Simabase
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatBoboFirst&layout=compact&theme=dark)
 
----
+## 💡 About Me
 
-## Other stuff I am making
+I'm a passionate coder enthusiastic about building projects and continuously learning new technologies. I enjoy turning ideas into reality through code and creating solutions that make a difference.
 
-- HTML6
-- SimVerse
-- Opix(Yes, because is an integration)
-- Minuan(A browser, btw)
-- Plantar Flower(What me and my cousin was making)
+## 🎯 What I'm Currently Up To
 
----
+- 🔭 Exploring new projects and technologies
+- 🌱 Always learning and improving my skills
+- 💬 Open to collaboration and feedback
+- ⚡ Contributing to the developer community
 
-That's all I got to say, I'll update the README sometimes, but this is what I got.
+## 📂 Featured Projects
+
+Check out some of my work above! Each repository tells a story of problem-solving and creativity.
+
+## 🤝 Let's Connect!
+
+I'm always interested in:
+- Collaborating on exciting projects
+- Learning from the community
+- Sharing knowledge and experiences
+- Building cool things together
+
+**Happy coding!** ✨
