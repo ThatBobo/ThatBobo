@@ -10,11 +10,11 @@ Welcome to my GitHub profile! I'm passionate about coding and creative problem-s
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatBoboFirst&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatBobo&show_icons=true&theme=dark)
 
 ## 🔝 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatBoboFirst&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatBobo&layout=compact&theme=dark)
 
 ## 💡 About Me
 
